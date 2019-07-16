@@ -1,0 +1,14 @@
+{
+  "name": "js-libp2p-tcp-test",
+  "version": "0.0.1",
+  "description": "test repo for js-libp2p-tcp module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hhan87",
+  "license": "MIT",
+  "dependencies": {
+    "libp2p": "^0.25.5"
+  }
+}
