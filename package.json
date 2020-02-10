@@ -9,6 +9,15 @@
   "author": "hhan87",
   "license": "MIT",
   "dependencies": {
-    "libp2p": "^0.25.5"
+    "@nodeutils/defaults-deep": "^1.1.0",
+    "libp2p": "^0.26.2",
+    "libp2p-kad-dht": "^0.15.4",
+    "libp2p-mdns": "^0.12.3",
+    "libp2p-mplex": "^0.8.5",
+    "libp2p-secio": "^0.11.1",
+    "libp2p-spdy": "^0.13.3",
+    "libp2p-tcp": "^0.13.2",
+    "peer-info": "^0.17.1",
+    "pull-stream": "^3.6.14"
   }
 }
